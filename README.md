@@ -42,3 +42,8 @@ If NER task is required, run NER.ipynb to obtain trained model stored in pkl
 
 Finally, ```python app.py```: start Flask application, you can navigate to localhost:5000 in your browser to see the site
 
+
+# Demo URL
+
+https://youtu.be/AShnLu0kVh0
+
